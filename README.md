@@ -23,6 +23,9 @@ It’s ideal for learning Arduino programming and electronics. This setup can al
 **Simulation Video (click to play):**  
 [![Simulation Video](tinkercad_setup.png)](simulation.mp4)
 
+## Project Logic Diagram
+
+![PIR Motion Sensor Alarm – Logic Flow Diagram](images/bpmn_diagram.png)
 
 
 ## Components (Tinkercad Compatible)
